@@ -27,7 +27,7 @@ Run the scene and display the output.
 ## PROGRAM:
 
 ### Player.cs:
-```
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -69,7 +69,7 @@ public class Player : MonoBehaviour
 
 ### Score.cs:
 
-```
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -97,7 +97,8 @@ public class Score : MonoBehaviour
 
 ## OUTPUT:
 
-![alt text](image-1.png)
+<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/6d5b332e-f070-4462-8bdd-88982a77b759" />
+
 
 ## RESULT:
 2D game using C# program in Unity is successfully developed....
